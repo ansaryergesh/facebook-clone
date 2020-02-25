@@ -8,8 +8,8 @@ Build Facebook using Ruby on Rails! Not all Facebook features are available
 [Check a live version on Heroku](https://face-cloning.herokuapp.com)
 
 ## Authors:
-[👤 **Ansar Yergeshov**](https://github.com/ansaryergesh)
-[👤 **Amanda**](https://github.com/vieiramanda11)
+- [👤 **Ansar Yergeshov**](https://github.com/ansaryergesh)
+- [👤 **Amanda**](https://github.com/vieiramanda11)
 
 ## Features
 
